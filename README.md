@@ -1,6 +1,6 @@
 # Library Book System Manager
 
-## Curated by Noah Ibarra
+## by Noah Ibarra
 
 ## Overview
 
